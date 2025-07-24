@@ -79,3 +79,4 @@ document.getElementById("resetBtn").addEventListener("click", () => {
   completados = new Set();
   renderMalla();
 });
+
